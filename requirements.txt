@@ -1,0 +1,5 @@
+pandas
+pymcel
+nboformat
+rebound
+plotly
